@@ -8,6 +8,7 @@ after you make  a change go to terminal and type: git add .
 
 test again??
 Please god
+<<<<<<< HEAD
 is it working? no
 ⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⢰⣿⡿⠗⠀⠠⠄⡀⠀⠀⠀⠀
@@ -20,3 +21,11 @@ is it working? no
 ⠀⠀⠀⣷⣄⡀⠀⠀⠀⢀⣴⡟⠿⠃⠀⠀
 ⠀⠀⠀⢻⣿⣿⠉⠉⢹⣿⣿⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠉⠁⠀⠀⠀⠉⠁
+=======
+<<<<<<< HEAD
+is it working?
+Please have mercy on my soul
+=======
+is it working? no
+>>>>>>> 722399fed2cca7e0df5223fed4b8583dfc06e858
+>>>>>>> 643a351b830f60d131f8bff3c9f16829b7148117
