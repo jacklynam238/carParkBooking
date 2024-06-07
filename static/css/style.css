@@ -1,10 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('background.png');
-}
-body{
-background-image: url('background.png');
+    background-image: image('background.png');
 }
 
 nav {
@@ -18,7 +15,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #526340;
 }
 
 li {
@@ -34,14 +31,14 @@ li a {
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: #64784e  ;
 }
 li a:hover {
-  background-color: #111;
+  background-color: #64784e;
 }
 /* Add a gray right border to all list items */
 li {
-  border-right: 1px solid #bbb;
+;
 }
 ul {
   position: fixed;
