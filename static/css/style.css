@@ -7,6 +7,15 @@ body {
     background-attachment: fixed; /* Fixed background image */
     background-position: center; /* Center the background image */
     margin: 0;
+
+
+}
+.welcome-container {
+    text-align: center;
+}
+h1 {
+    font-size: 5em;
+    color: white;
 }
 
 nav {
