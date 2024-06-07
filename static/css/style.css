@@ -8,8 +8,11 @@ body {
     background-position: center; /* Center the background image */
     margin: 0;
     font-family: 'Roboto';
-
-
+}
+.logo {
+    width: 100px; /* Adjust the width as needed */
+    height: auto;
+    margin-top: 11px;
 }
 .welcome-container {
     text-align: center;
