@@ -7,15 +7,32 @@ body {
     background-attachment: fixed; /* Fixed background image */
     background-position: center; /* Center the background image */
     margin: 0;
+    font-family: 'Roboto';
 
 
 }
 .welcome-container {
     text-align: center;
+    margin-top: 50px;
 }
 h1 {
-    font-size: 5em;
+    font-size: 10em;
     color: white;
+    opacity: 0.6;
+}
+.book-now {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    color: white;
+    background-color: #526340; /* Button background color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.book-now:hover {
+    background-color: #64784e; /* Button background color on hover */
 }
 
 nav {
