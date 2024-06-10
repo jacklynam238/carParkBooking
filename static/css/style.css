@@ -80,18 +80,3 @@ ul {
   width: 100%;
 }
 
-.log-in {
-    font-size: 1.2em;
-    padding: 10px 20px;
-    color: white;
-    background-color: #526340; /* Button background color */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-h2 {
-    font-size: 10em;
-    color: white;
-    opacity: 0.6;
-}
