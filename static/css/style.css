@@ -84,14 +84,3 @@ ul {
     text-align: center;
     margin-top: 50px;
 }
-
-.log-in {
-    text-align: centre;
-     font-size: 1.2em;
-    padding: 10px 20px;
-    color: white;
-    background-color: #526340; /* Button background color */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
