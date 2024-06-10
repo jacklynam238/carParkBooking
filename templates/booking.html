@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="welcome-container">
-        <h1>book now</h1>
+  <h1>Book Now</h1>
 </div>
 <nav>
   <ul>
@@ -15,5 +15,34 @@
     <li style="float:right"><a class="active" href="#Log-in">Log-in</a></li>
   </ul>
 </nav>
+
+<!-- Booking Section -->
+<div class="booking-container">
+  <h2>Book Your Appointment</h2>
+  <form id="booking-form" action="/submit-booking" method="POST">
+    <div class="form-group">
+      <label for="name">Full Name</label>
+      <input type="text" id="name" name="name" required>
+    </div>
+    <div class="form-group">
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="email" required>
+    </div>
+    <div class="form-group">
+      <label for="phone">Phone Number</label>
+      <input type="tel" id="phone" name="phone" required>
+    </div>
+    <div class="form-group">
+      <label for="date">Booking Date</label>
+      <input type="date" id="date" name="date" required>
+    </div>
+    <div class="form-group">
+      <label for="time">Booking Time</label>
+      <input type="time" id="time" name="time" required>
+    </div>
+    <button type="submit">Book Now</button>
+  </form>
+</div>
+
 </body>
 </html>
