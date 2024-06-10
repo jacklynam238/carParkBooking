@@ -9,6 +9,12 @@ body {
     margin: 0;
     font-family: 'Roboto';
 }
+
+.background-tint {
+  background-color: rgba(100,100,200,.5);
+  background-blend-mode: multiply;
+}
+
 .logo {
     width: 100px; /* Adjust the width as needed */
     height: auto;
@@ -17,7 +23,6 @@ body {
 h1 {
     font-size: 10em;
     color: white;
-    opacity: 0.6;
 }
 .book-now {
     font-size: 1.2em;
