@@ -2,27 +2,22 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('/images/background.png');
-    background-size: cover; /* Cover the entire page */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-attachment: fixed; /* Fixed background image */
-    background-position: center; /* Center the background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     margin: 0;
     font-family: 'Roboto';
 }
 .logo {
-    width: 100px; /* Adjust the width as needed */
+    width: 100px;
     height: auto;
-}
-.welcome-container {
-    text-align: center;
-    margin-top: 50px;
 }
 
 nav {
     padding: 0;
     margin: 0;
 }
-
 
 ul {
   list-style-type: none;
@@ -65,7 +60,7 @@ ul {
     font-size: 1.2em;
     padding: 10px 20px;
     color: white;
-    background-color: #526340; /* Button background color */
+    background-color: #526340;
     border: none;
     border-radius: 5px;
     cursor: pointer;
