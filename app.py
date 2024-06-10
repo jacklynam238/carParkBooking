@@ -13,20 +13,20 @@ db = SQLAlchemy(app)
 
 
 class Item(db.Model):
-    __tablename__ = 'list_table'
+    __tablename__ = 'booking_table'
     id = db.Column(db.Integer, primary_key=True)
-    startTime = db.Column(db.DateTime)
+    startTime = db.Column(db.Datetime)
     parkLength = db.Column(db.Integer)
 
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    if request.method == 'POST':
-        item_name = request.form['item']
-        item = Item(name=item_name)
-        db.session.add(item)
-        db.session.commit()
-        return redirect(url_for('index'))
+    # if request.method == 'POST':
+    #     item_nam = request.form['item']
+    #     item = Item(name=item_name)
+    #     db.session.add(item)
+    #     db.session.commit()
+    #     return redirect(url_for('index'))
 
     items = Item.query.all()
     return render_template('index.html', items=items)

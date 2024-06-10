@@ -16,5 +16,15 @@
         <h1>Welcome</h1>
         <button class="book-now">Book Now</button>
 </div>
+<!-- THIS FORM IS FOR JACK. LEAVE IT ALONE -->
+<form action="{{ url_for('index') }}" method="post">
+    <button type="submit">get stuff pls</button>
+    {% for item in items %}
+    <li>
+        {{ item[id] }}
+    </li>
+    {% endfor %}
+
+</form>
 </body>
 </html>
