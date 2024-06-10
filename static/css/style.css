@@ -79,3 +79,8 @@ ul {
   top: 0;
   width: 100%;
 }
+
+.log-in-container {
+    text-align: center;
+    margin-top: 50px;
+}
