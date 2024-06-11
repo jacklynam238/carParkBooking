@@ -23,6 +23,7 @@ body {
 h1 {
     font-size: 10em;
     color: white;
+    opacity: .8;
 }
 .book-now {
     font-size: 1.2em;
