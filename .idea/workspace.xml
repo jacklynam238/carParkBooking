@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58026567-c45b-4c80-b855-3ee1338eff05" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/static/css/contact.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/static/css/booking.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/booking.css" afterDir="false" />
+>>>>>>> ac19175d1418922d658e67d965478e8abe0ede6c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +57,16 @@
     "last_opened_file_path": "C:/Users/ebroain/PycharmProjects/carParkBooking",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
+<<<<<<< HEAD
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\eobrchr\PycharmProjects\carParkBooking\images" />
     </key>
   </component>
+=======
+}</component>
+>>>>>>> ac19175d1418922d658e67d965478e8abe0ede6c
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
