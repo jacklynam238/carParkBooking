@@ -10,10 +10,6 @@ body {
     font-family: 'Roboto';
 }
 
-.background-tint {
-  background-blend-mode: multiply;
-}
-
 .logo {
     width: 100px; /* Adjust the width as needed */
     height: auto;

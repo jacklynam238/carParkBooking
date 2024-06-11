@@ -10,11 +10,6 @@ body {
     padding: 0;
 }
 
-.background-tint {
-  background-blend-mode: multiply;
-}
-
-
 .welcome-container {
     text-align: center;
     font-size: 4em;
