@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58026567-c45b-4c80-b855-3ee1338eff05" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/static/css/booking.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/booking.css" afterDir="false" />
+    <list default="true" id="58026567-c45b-4c80-b855-3ee1338eff05" name="Changes" comment="update to index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,5 +63,9 @@
       <updated>1717750458757</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update to index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to index.html" />
   </component>
 </project>
