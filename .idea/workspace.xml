@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58026567-c45b-4c80-b855-3ee1338eff05" name="Changes" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
->>>>>>> 9af410e703a1e13577b7c61f9a165c29bbab7120
+      <change beforePath="$PROJECT_DIR$/static/css/booking.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/booking.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +24,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jacklynam238/carParkBooking.git&quot;,
-    &quot;accountId&quot;: &quot;db4f4792-10e1-420e-b1eb-5137f7c25967&quot;
+    &quot;accountId&quot;: &quot;6090e32d-ac35-4fe4-b4e2-16b801b257aa&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -45,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ebroain/PycharmProjects/carParkBooking&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="SharedIndexes">
