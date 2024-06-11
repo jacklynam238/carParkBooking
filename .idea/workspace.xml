@@ -4,23 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="58026567-c45b-4c80-b855-3ee1338eff05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/static/css/about.css" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/static/css/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-=======
-    <list default="true" id="58026567-c45b-4c80-b855-3ee1338eff05" name="Changes" comment="update to index.html">
->>>>>>> 1f0d582be12ddde5ce92fe8ca05a10a40ae57cbd
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/booking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/static/css/booking.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/booking.css" afterDir="false" />
+>>>>>>> ac19175d1418922d658e67d965478e8abe0ede6c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,14 +49,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ebroain/PycharmProjects/carParkBooking&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ebroain/PycharmProjects/carParkBooking",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
+<<<<<<< HEAD
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eobrchr\PycharmProjects\carParkBooking\images" />
+    </key>
+  </component>
+=======
 }</component>
+>>>>>>> ac19175d1418922d658e67d965478e8abe0ede6c
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,9 +84,5 @@
       <updated>1717750458757</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="update to index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to index.html" />
   </component>
 </project>

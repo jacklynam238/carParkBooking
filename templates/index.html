@@ -2,9 +2,15 @@
 <html>
 <head>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <link rel="stylesheet" href="/static/css/style.css>"
+=======
+  <link rel="stylesheet" href="..style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+>>>>>>> bae958bffacf935e8aaab4c2dd8f74fa916b1de7
 </head>
 <body>
+
 <nav>
   <ul>
     <li><a class="active" href="#Home"><img src="/images/ericsson text logo.png" alt="Logo" class="logo"></a></li>
@@ -16,6 +22,7 @@
         <h1>Welcome</h1>
         <button class="book-now">Book Now</button>
 </div>
+<<<<<<< HEAD
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
@@ -80,5 +87,17 @@ function showSlides(n) {
 }
 
 </script>
+=======
+<!-- THIS FORM IS FOR JACK. LEAVE IT ALONE -->
+<form action="{{ url_for('index') }}" method="post">
+    <button type="submit">get stuff pls</button>
+    {% for item in items %}
+    <li>
+        {{ item[id] }}
+    </li>
+    {% endfor %}
+
+</form>
+>>>>>>> bae958bffacf935e8aaab4c2dd8f74fa916b1de7
 </body>
 </html>
