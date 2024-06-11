@@ -1,20 +1,22 @@
 Project should be setup like the vertical slice.
 You can make more css files if you need them.
 
-after you make  a change go to terminal and type:
-    git add .
+after you make  a change go to terminal and type: git add .
     then: git commit -m "what you changed"
     then: git pull
     then type: got push
 
-⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢰⣿⡿⠗⠀⠠⠄⡀⠀⠀⠀⠀
-⠀⠀⠀⠀⡜⠁⠀⠀⠀⠀⠀⠈⠑⢶⣶⡄
-⢀⣶⣦⣸⠀⢼⣟⡇⠀⠀⢀⣀⠀⠘⡿⠃
-⠀⢿⣿⣿⣄⠒⠀⠠⢶⡂⢫⣿⢇⢀⠃⠀
-⠀⠈⠻⣿⣿⣿⣶⣤⣀⣀⣀⣂⡠⠊⠀⠀
-⠀⠀⠀⠃⠀⠀⠉⠙⠛⠿⣿⣿⣧⠀⠀⠀
-⠀⠀⠘⡀⠀⠀⠀⠀⠀⠀⠘⣿⣿⡇⠀⠀
-⠀⠀⠀⣷⣄⡀⠀⠀⠀⢀⣴⡟⠿⠃⠀⠀
-⠀⠀⠀⢻⣿⣿⠉⠉⢹⣿⣿⠁⠀⠀⠀⠀
-⠀⠀⠀⠀⠉⠁⠀⠀⠀⠉⠁
+test again??
+Please god
+<<<<<<< HEAD
+is it working? no
+⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀
+=======
+<<<<<<< HEAD
+is it working?
+Please have mercy on my soul
+=======
+is it working? no
+>>>>>>> 722399fed2cca7e0df5223fed4b8583dfc06e858
+>>>>>>> 643a351b830f60d131f8bff3c9f16829b7148117
+
