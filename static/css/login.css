@@ -10,11 +10,6 @@ body {
     font-family: 'Roboto';
 }
 
-.background-tint {
-  background-color: rgba(100,100,200,.5);
-  background-blend-mode: multiply;
-}
-
 .logo {
     width: 100px; /* Adjust the width as needed */
     height: auto;
@@ -30,6 +25,7 @@ h1 {
 nav {
     padding: 0;
     margin: 0;
+    z-index: 100;
 }
 
 
